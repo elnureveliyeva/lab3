@@ -1,0 +1,27 @@
+.tap1{
+    background-color: aquamarine;
+    margin-right: 600px;
+    border-radius: 15px;
+    text-align: center;
+} 
+
+
+
+.tap2{
+    background-color: aquamarine;
+    margin-right: 100px;
+    text-align: center;
+
+}
+
+
+
+.tap3 {
+    background-color: black;
+    padding: 10px;
+}
+.tap3 a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
