@@ -15,3 +15,13 @@
     </div>
 </body>
 </html>
+
+.tap3 {
+    background-color: black;
+    padding: 10px;
+}
+.tap3 a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
