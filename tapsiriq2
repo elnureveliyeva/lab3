@@ -12,3 +12,10 @@
     </section>
 </body>
 </html>
+
+.tap2{
+    background-color: aquamarine;
+    margin-right: 100px;
+    text-align: center;
+
+}
