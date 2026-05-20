@@ -13,3 +13,10 @@
     </section>
 </body>
 </html>
+
+.tap1{
+    background-color: aquamarine;
+    margin-right: 600px;
+    border-radius: 15px;
+    text-align: center;
+} 
